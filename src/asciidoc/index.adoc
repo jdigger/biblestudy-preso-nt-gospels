@@ -1,0 +1,394 @@
+[%notitle]
+= The Gospels
+:imagesdir: images
+:icons: font
+:revealjs_width: "1200"
+:revealjs_height: "768"
+:revealjs_minScale: 0.2
+:revealjs_maxScale: 2.0
+:customcss: ./preso.css
+:revealjs_theme: simple
+:revealjs_history: true
+:revealjs_transition: none
+// :revealjs_controls: false
+
+++++
+<br/><br/><div class="content" style="display: flex; text-align: center;">
+<p style="font-size: 0.5em; width: 100%"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Gospels</span> by
+<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under
+a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+Presentation source at <a xmlns:dct="http://purl.org/dc/terms/" href="https://jdigger.github.io/biblestudy-preso-nt-gospels/" rel="dct:source">https://jdigger.github.io/biblestudy-preso-nt-gospels/</a></p></div>
+++++
+
+
+== Agenda
+
+* Overview
+* Matthew
+* Mark
+* Luke
+* John
+* Acts
+* Summary
+
+
+== History
+
+The first five books of the New Testament are the books of the New Testament are historical accounts, covering the life of Jesus and the time immediately after His resurrection.
+
+This direct history comprises nearly two thirds of the entire New Testament. They are either direct first-person account (Matthew, Mark, John) or written from interviews with various people that witnessed the events (Mark, Luke, and Acts).
+
+== History
+
+It is a recording of very specific events in history, written when there were others around that could testify for or against their veracity.
+
+They were NEWS
+
+
+== Etymology
+
+The word gospel derives from the Old English gōd-spell/gōdspel (long _O_), meaning "good news" or "glad tidings". (_spel_ has turned into the modern -- if somewhat anachronistic -- word _spiel_ as well as spell, which is an an incantation/pronouncement.)
+
+It is a word-for-word translation of the Greek word εὐαγγέλιον, euangelion (eu- "good", -angelion "message"), which is the word used in the Greek original documents when the authors refer to the gospel.
+
+== Etymology
+
+The Greek word _euangelion_ is also the source (via Latinised _evangelium_) of the terms "evangelist" and "evangelism" in English.
+
+== The Synoptic Gospels
+
+The first three books "`see together.`" They have the same point of view with regard to the life of Christ, agreeing in subject matter and order. (The first was likely Mark, with Matthew and Luke using that as a base for their different audiences.)
+
+John assumes you've read those, and takes a higher-level view over the events.
+
+Acts covers the history where those leave off.
+
+== Seeing Together
+
+* The announcement of the Messiah by John the Baptist (Matt. 3, Mark 1, and Luke 3)
+* The baptism of Jesus (Matt. 3, Mark 1, and Luke 3)
+* The temptation of Jesus (Matt. 4, Mark 1, and Luke 4)
+* The teaching and miracles of Jesus (The major portion of each Gospel)
+* The transfiguration of Jesus (Matt. 17, Mark 9, and Luke 9)
+* The trial, death, and burial of Jesus (Matt. 26-27, Mark 14-15, Luke 22-23)
+* The resurrection of Jesus (Matt. 28, Mark 16, Luke 24)
+
+
+== Primary Focus of Each Book
+
+* **Matthew**'s Gospel is primarily to the Jews to convince them that Jesus of Nazareth is their Messiah, the King of the Jews, by constantly calling back to their history.
+* **Mark** is directed to the Romans (and other Gentiles), being too-the-point and emphasizing very tangible events -- especially those of Christ's last week when the Romans were most involved.
+* **Luke** is the historian giving the most focus to Jesus' humanity and philosophy. (He likely had a more Greek audience in mind.)
+* **John** jumps immediately into Jesus being GOD, focussing on addressing the Church to provide comfort and evangelical zeal.
+
+
+
+== The Books
+
+
+== Matthew
+
+== Matthew - the Person
+
+Matthew was one of the original disciples of Jesus. His original name was Levi, the son of Alphaeus. Matthew worked as a tax collector for the Romans in Palestine until he was called by the Lord to follow Him. His quick response may suggest his heart had already been stirred by the ministry of Jesus.
+
+== Matthew - Overview
+
+The very first verse introduces Jesus as "`The son of David, the son of Abraham.`"
+
+By this title he designates him as the promised seed of David who was to sit upon David's throne and reign forever, and he also keeps in mind the ancient promise to Abraham of a seed in whom all the nations of the earth were to be blessed.
+
+While the divinity of Jesus is by no means overlooked, Matthew gives many quotes from the Old Testament of predictions and types which were fulfilled in his person and in his work. He has more of these than the three other Gospels combined.
+
+== The Words of their Messiah
+
+In harmony with Jesus being our Prophet, Priest, and King, he devotes more space than any of the others to the teachings of Jesus. Over half the book is Christ's formal speeches.
+
+[.smaller]
+Because it contains the most of Jesus' words, as well as its location at the beginning of the volume, Matthew is the book people are more familiar with.
+
+== The Parts of Matthew
+
+The book naturally divides itself into three distinct parts:
+
+1. giving the genealogy of Jesus, His birth, some of the events of His infancy, His baptism, and His temptation
+2. His ministry in Galilee
+3. the events from his departure out of Galilee until His resurrection from the dead
+
+== Matthew - Some Key Verses
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+1%3A20-23&version=NIV[Matt 1:20-23] But after he had considered this, an angel of the Lord appeared to him in a dream and said, "`Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.`" All this took place to fulfill what the Lord had said through the prophet: "`The virgin will conceive and give birth to a son, and they will call him Immanuel`" (which means "`God with us`").
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+5%3A17&version=NIV[Matt 5:17] "`Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.`"
+
+== Matthew - Some Key Verses
+
+[quote.bible]
+--
+https://www.biblegateway.com/passage/?search=Matthew+16%3A15-19&version=NIV[Matt 16:15-19] "`But what about you?`" he asked. "`Who do you say I am?`"
+
+Simon Peter answered, "`You are the Messiah, the Son of the living God.`"
+
+Jesus replied, "`Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven. And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it. I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.`"
+--
+
+== Matthew - Some Key Verses
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Matthew+28%3A18-20&version=NIV[Matt 28:18-20] Then Jesus came to them and said, "`All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.`"
+
+== Matthew - Key Chapters
+
+Chapter 1 introduces the genealogy and birth of Jesus as son of David, son of Abraham. He also shows the miraculous work of the Spirit, with Joseph being the legal father by adoption, but not "`by the flesh.`"
+
+Chapter 12 shows the turning point when the religious leaders formally reject Jesus as their Messiah by attributing His miraculous power to Satan. With this, Jesus began to speak in parables to hide truth from the unresponsive, and more time is given to His disciples.
+
+
+
+
+
+
+== Mark
+
+== Mark - the Person
+
+While this gospel was written by Mark, it is also Peter's gospel, who was very close to him (referring to Mark as his "`son`" in 1 Peter 5:13).
+
+It was clearly Peter that provided most of the first-hand information for the book.
+
+While Mark was not an apostle, he was the son of a woman in Jerusalem named Mary, whose house was a place of resort for the disciples. He was also Barnabas' cousin (Colossians 4:10). While he backed out of Paul's first missionary journey, he later became an important missionary with Paul.
+
+== Mark - Purpose
+
+Mark introduces Jesus in the first line of his book with "`The beginning of the gospel of Jesus Christ, the Son of God.`" His main purpose was to prove Jesus' divinity, and what He would use that power for...
+
+== Mark - Audience
+
+Mark was writing with a missionary focus to the Romans and other Gentiles.
+
+The shortest of the Gospels, it could be reasonably read in a single sitting, or read aloud to a group of people.
+
+== Mark - The Work of Christ
+
+He focusses heavily on Jesus' _**actions**_. Not only does Mark have the most miracles, but he uses of the Greek _euqus_ ("`immediately, at once,`" or "`then, so then,`") some 42 times in this Gospel.
+
+== Mark - The Purpose of Jesus' Power
+
+All of this leads to the clear picture of Jesus as being powerful, divine, and a man of action -- the very incarnation of power.
+
+That would certainly raise the interest of his Roman audience.
+
+And Jesus used all that power to be always in service, including to be executed in our place.
+
+
+== The Parts of Mark
+
+1. Jesus is in Galilee, speaking about being the New King (1:1-3:6), a New Kingdom (3:7-6:6), and establishing a New Order (6:7-8:21)
+2. as they start heading to Jerusalem, Jesus predicts His death three times
+3. Jesus enters Jerusalem as its king, willingly suffers betrayal upon betrayal and mockery, stood silent before the Romans, executed, and an angel testifying to His resurrection
+
+
+== Mark 8
+
+There is pivotal event that clearly brings about a change in the content and course of the ministry of Jesus: the confession of Peter. Before then He was validating His divinity, but now He is clearly marching to the cross.
+
+[%notitle]
+== Mark 8
+
+[quote.bible]
+--
+https://www.biblegateway.com/passage/?search=Mark+8%3A27-34&version=NIV[Mark 8:27-34] On the way he asked them, "`Who do people say I am?`" They replied, "`Some say John the Baptist; others say Elijah; and still others, one of the prophets.`"
+
+"`But what about you?`" he asked. "`Who do you say I am?`"
+
+Peter answered, "`You are the Messiah.`"
+
+Jesus warned them not to tell anyone about him...
+--
+
+[%notitle]
+== Mark 8
+
+[quote.bible]
+--
+...He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, the chief priests and the teachers of the law, and that he must be killed and after three days rise again. He spoke plainly about this, and Peter took him aside and began to rebuke him.
+
+But when Jesus turned and looked at his disciples, he rebuked Peter. "`Get behind me, Satan!`" he said. "`You do not have in mind the concerns of God, but merely human concerns.`"
+
+Then he called the crowd to him along with his disciples and said: "`Whoever wants to be my disciple must deny themselves and take up their cross and follow me.`"
+--
+
+
+
+== Luke
+
+== Luke - The Person
+
+We learn about Luke from Paul in his letter to the Colossians: that Luke was a physician, and not of "`of the circumcision,`" so almost certainly a Gentile.
+
+[.smaller]
+That would make Luke the only Gentile author of Scripture, hinting at one of the fundamental changes of the New Testament Church.
+
+Luke went with Paul in missionary work, and he was with Paul at the time of the Apostle's martyrdom (2 Tim. 4:11).
+
+== Luke - Audience
+
+As his book is addressed to "`Theophilus`", whose name is a Greek word, it appears that he intended it primarily for Greek readers. He addresses Theophilus by the title "`most excellent`", the usual Greek form of address to a man of high rank in the political world. Luke's use of the Greek language is far cleaner and sophisticated than the others, reflecting his training and social circles.
+
+== Luke - Researched
+
+Luke states that his own work was stimulated by the work of others (1:1), that he consulted eyewitnesses (1:2), and that he sifted and arranged the information (1:3) under the guidance of the Holy Spirit to instruct Theophilus in the historical reliability of the faith (1:4).
+
+This is a carefully researched and documented writing.
+
+== Luke - Audience Accessability
+
+Luke clearly felt responsible to write his two-volume account (this book and Acts) so that it would be accessible to Gentile readers. He translates Aramaic terms with Greek words, and explains Jewish customs and geography to make his Gospel more intelligible to his original readers.
+
+[.smaller]
+Which his modern-day readers are very thankful for as well!
+
+== Luke - Challenges?
+
+While Luke covers many of the same events as Matthew and Mark, quite a few of the details are different. This has very often caused enemies of the Gospel to charge him with contradicting the others, and therefore at least one of them is in error.
+
+These range from silly little "`gotchas`" like "`is it six days or eight before the Mount of Transfiguration?`" to extremely prominent New Testament "`scholars`" making ludicrous claims in seminaries and popular media.
+
+[.smaller]
+--
+For example, Dr. Bart D. Ehrman -- who graduated _magna cum laude_ from Princeton Theological Seminary with his MDiv and PhD, has six New York Times bestsellers, and three college textbooks -- went on The Colbert Report right before Good Friday to inform everyone that clearly there are errors in the Bible. "`In Mark's Gospel, for example, Jesus goes to His death in deep agony, over what's happening to him, and doesn't seem to understand why it's happening to Him... [but] when you read Luke's Gospel, He's not in agony at all.`"
+
+Apparently Ehrman didn't read Luke's accounts of the Last Supper, or how in Gethsemane "`And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground.`" (Luke 22:44)
+--
+
+== Luke - Opportunities
+
+A much more responsible reading, of course, shows that Luke is filling in information and emphasizing certain things that the others didn't because he has a different audience. We get a much more beautiful and rich account of our Savior's life, death, and teachings because of it.
+
+This is especially true as we do the work to figure out how all of the Gospel accounts show the deep and complex ways of understanding what happened.
+
+== Luke - The First Part
+
+The first part of Luke's gospel, like Matthew's, is devoted to the infancy and the early life of Jesus, concluding with his temptation. The amount of space which he gives to it about the same as Matthew's, but he fills it with incidents nearly all of which are different from those given by Matthew.
+
+In order to learn all we can about this part of our Lord's life, we have to study the first part of Luke and that of Matthew together.
+
+== Luke - The Second Part
+
+In the second part, Luke gives his attention, like Matthew and Mark, to the ministry of Jesus in Galilee, saying nothing about some visits to Jerusalem which we know from John's Gospel were made during this period. This part extends from Luke 4:14 to Luke 9:62, less space than is given it by either Matthew or Mark. Then follows the part of Luke in which he gives the most new information, and the whole of it is both instructive and charming. It includes chapters ten to eighteen, more than either of the other parts. His last, or fourth part, like that of the other two Gospels, is devoted to the closing scenes of the last six months, and it includes his last six chapters.
+
+== Luke - Purpose
+
+Luke is the most comprehensive and longest of the Gospels. It presents the Savior as the Son of Man: the Perfect Man who came to seek and save the lost (19:10).
+
+In Luke we see Him as the Son of Man, meeting Man's needs, a perfect man among men, chosen from men (going back to Adam in 3:38), tested among men (in the temple 2:40-52), and supremely qualified to be the Savior and High Priest (at His Baptism with the Father and Spirit in 3:21).
+
+So in Jesus we have One who is perfect manhood -- physically, mentally, and spiritually -- full of compassion, reconciling Man to God.
+
+
+== John
+
+== John - The Person
+
+John was the son of Zebedee and brother of James. Jesus named John and James, "`Sons of Thunder`" (Mark 3:17).
+ 
+Salome, his mother, served Jesus in Galilee and was present at His crucifixion (Mark 15:40-41).
+ 
+== John - The Beloved
+
+He is usually identified as "`the beloved disciple`" (13:23; 18:15, 16; 19:26-27), and was one of three Christ took with Him to the Mount of Transfiguration (Matt. 17:1).
+ 
+He was closely associated with Peter, and after the ascension of Christ, John became one whom Paul identified as the "`pillars`" of the Church (Gal. 2:9).
+
+== John - Purpose
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+20%3A30-31&version=NKJV[John 20:30-31] And truly Jesus did many other signs in the presence of His disciples, which are not written in this book; but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in His name.
+
+== John - Approach
+
+John's gospel was the last one to be written, after the other Gospels were in circulation, and likely after the Temple had been destroyed. We don't know if he had read all three of the Synoptic Gospels, but he certainly had read at least one.
+
+He carefully avoided repeating what the others had written, so that he has very few events in common with them. When he does overlap, he gives details which they had omitted.
+
+== John - Theme
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+1%3A1-5&version=NIV[John 1:1-5] In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it.
+
+John takes a much bigger-picture view of things, helping not only to further contextualize the other Gospels, but also to give perspective on how drastically his readers' lives and understanding of the world was being turned upside down.
+
+== John - Helping Us Place Things
+
+John's is the only Gospel which is chronological throughout. By counting the feasts of the Jews which Christ attended, all of which are mentioned in this Gospel, we learn that there were three years from the visit to Jerusalem mentioned in the second chapter, to the one at which he was crucified.
+
+== John - Some Key Verses
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+1%3A11-13&version=NIV[John 1:11-13] He came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God -- children born not of natural descent, nor of human decision or a husband's will, but born of God.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+1%3A14&version=NKJV[John 1:14] And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.
+
+[%notitle]
+== John - Some Key Verses 2
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=John+3%3A16-18&version=NKJV[John 3:16-18] For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. For God did not send His Son into the world to condemn the world, but that the world through Him might be saved. He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God.
+
+== John - I AM
+
+John records Jesus' seven "`I AM`" statements made by Jesus and recorded in John's Gospel.
+
+These seven statements are: I am the bread of life (6:35), I am the light of the world (8:12), I am the gate (10:7, 9), I am the good shepherd (10:11, 14), I am the resurrection and the life (11:25), I am the way, the truth, and the life (14:6), I am the true vine (15:1, 5).
+
+On certain occasions, Jesus equates Himself with the Old Testament "`I AM`" or Yahweh (see 4:25-26; 8:24, 28, 58; 13:19; 18:5-6, 8). Some of the most crucial affirmations of His deity are found here (1:1; 8:58; 10:30; 14:9; 20:28).
+
+== John - Witnesses To His Divinity
+
+In https://www.biblegateway.com/passage/?search=John+5%3A31-47&version=NIV[John 5:31-47], Jesus is responding to the arguments of His opponents. They were claiming there were no other witnesses to corroborate His testimony. Jesus shows that is not true: there is His Father (vv. 32, 37), there is John the Baptist (v. 33), His miracles (v. 36), the Scriptures (v. 39), and Moses (v. 46).
+
+
+
+
+
+
+
+
+
+== Acts of Apostles
+
+a.k.a. 2 Luke
+
+== Acts
+
+
+== Acts - When It Was Written
+
+While written before well before John, it is listed last because its events cover the 30 years after Christ's Ascension (at the start of the book).
+
+We know it written around 60-62 AD because Luke was with Paul around Rome. We know it couldn't be after then because of major events explicitly not mentioned, such as Nero's persecutions after the great fire in 64 AD, or Paul's death around 67 AD, or the destruction of the temple in 70 AD.
+
+== Acts - Purpose
+
+This wonderfully gives the historical context for the Epistles, especially of Paul, since it follows Paul through most of his ministry.
+
+Whereas Luke's first book shows how Christianity had its roots in Judaism and the work of Christ, how did it become a worldwide religion?
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NIV[Acts 1:8] "`But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.`"
+
+
+
+== Summary
+
+We get a deep and rich -- if sometimes frustratingly incomplete -- look into the life and teachings of Jesus, and the growth of the early Church. It is in the Epistles that we will learn much more about "`How, then, shall we live?`"
+
+
+== Appendix
+
+Heavily indebted to https://bible.org/seriespage/historical-books-new-testament and https://www.biblestudytools.com/resources/guide-to-bible-study/gospels-and-acts.html
